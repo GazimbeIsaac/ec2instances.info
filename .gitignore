@@ -1,0 +1,11 @@
+*.pyc
+*.DS_store
+.idea
+*.egg-info
+env
+venv
+.env
+build
+dist
+ec2instances
+.vscode
